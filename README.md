@@ -2,7 +2,12 @@
 
 **1. Added value of AI in healthcare:** \
 We begin by unraveling the value that AI can bring to healthcare. AI can be used in applications ranging from improving patient diagnosis to enabling groundbreaking medical discoveries. As such, we will explore how AI can impact different domains in the healthcare landscape.
-- Identify the different impact domains of AI in healthcare.
+- Identify the different impact domains of AI in healthcare:
+
+*Medical diagnosis* is the process by which healthcare professionals identify and determine the nature of a patient's health condition or disease based on symptoms, medical history, physical examinations, and often, diagnostic tests or medical imaging. 
+
+*Medical prognosis* refers to the prediction or forecast of the expected course and outcome of a patient's health condition or disease. It provides information about the likely progression, recovery, or outcome of the condition.
+
 - Recognize the importance of learning the fundamentals of clinical machine learning for all stakeholders in the healthcare ecosystem.
 - Gain knowledge about the origins of machine learning in healthcare.
 - Understand the context and principles of common terms and definitions in machine learning.
