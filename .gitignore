@@ -1,0 +1,130 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.SafariSafeBrowsing
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.manifest
+*.spec
+*.log
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.pytype/
+mypy_cache/
+.pyre/
+.dmypy.json
+.pyre_check/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Java
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+# IntelliJ
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+*.class
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.idea/*
+
+# VSCode
+.vscode/
+.history/
+*.code-workspace
+
+# AI and Machine Learning
+model/
+data/
+*.h5
+*.hdf5
+*.ckpt
+*.pd
+*.pth
+*.pkl
+*.joblib
+*.pt
+*.onnx
+*.tflite
+*.pb
+*.pbtxt
+tensorboard/
+logs/
+mlruns/
+*.mlmodel
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+lerna-debug.log
+.pnp.*
+.pnp.js
+.pnp.cjs
+.pnp.loader.mjs
+.yarn/
+
+# General
+*.log
+*.lock
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+*.old
+*.orig
+*.rej
+*.~, *~
+*.sublime-workspace
+*.sublime-project
+*.vscode/
