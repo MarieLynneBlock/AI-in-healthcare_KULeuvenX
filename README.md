@@ -12,7 +12,7 @@ This README serves as an overview of the concepts and learning trajectory for a 
 AI has the potential to revolutionise healthcare by improving patient diagnosis, enhancing treatment plans, and enabling groundbreaking medical discoveries. This section explores the various domains in which AI can significantly impact healthcare.
 
 ### Key Learning Objectives
-- Recognize the importance of understanding clinical machine learning fundamentals for all stakeholders in the healthcare ecosystem.
+- Recognise the importance of understanding clinical machine learning fundamentals for all stakeholders in the healthcare ecosystem.
 - Gain knowledge about the origins and evolution of machine learning in healthcare.
 - Understand common terms and definitions in machine learning.
 - Define key terminology in the fields of machine learning, data science, and artificial intelligence.
@@ -20,8 +20,25 @@ AI has the potential to revolutionise healthcare by improving patient diagnosis,
 - Learn the first principles for designing machine learning applications for healthcare.
 
 ### Scope of Healthcare
-
 ![Scope of Healthcare](/01_added-value-AI-in-healthcare/01_scope-of-healthcare/slide_scope-of-healthcare.png)
+
+
+As the image above illustrates the diverse scope of healthcare, highlighting the various sectors where AI can be implemented:
+
+###### Focus on Health
+- **Public Health:** AI can support large-scale public health initiatives, improve disease surveillance, and enhance resource allocation.
+- **Global Health:** AI technologies can address global health challenges by providing accessible and affordable healthcare solutions.
+- **Mental Health:** AI can aid in the diagnosis and treatment of mental health disorders through advanced analytics and personalised therapy.
+- **Behavioral Health:** AI tools can be used to monitor and support behavioral health interventions, improving patient outcomes.
+- **Dental Health:** AI applications can enhance dental care through improved diagnostics, treatment planning, and patient management.
+
+###### Focus on Care
+- **Preventive Care:** AI can play a significant role in preventive healthcare by predicting disease risk and promoting early interventions.
+- **Primary Care:** AI can optimise primary care services, improving efficiency and patient care through decision support systems and automated workflows.
+- **Specialty Care:** AI can support specialised medical fields with advanced diagnostic tools, personalised treatment plans, and innovative therapies.
+- **Emergency Care:** AI can enhance emergency care by providing real-time decision support, triage, and predictive analytics to improve patient outcomes.
+- **Surgical Care:** AI can assist in surgical procedures through robotics, image-guided surgery, and post-operative care management.
+
 
 
 ### Impact Domains
