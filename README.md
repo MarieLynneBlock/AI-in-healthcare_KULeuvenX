@@ -19,6 +19,11 @@ AI has the potential to revolutionise healthcare by improving patient diagnosis,
 - Identify the challenges and limitations of applying machine learning in healthcare.
 - Learn the first principles for designing machine learning applications for healthcare.
 
+### Scope of Healthcare
+
+![Scope of Healthcare](/01_added-value-AI-in-healthcare/01_scope-of-healthcare/slide_scope-of-healthcare.png)
+
+
 ### Impact Domains
 
 #### Diagnosis & Prognosis
