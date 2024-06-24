@@ -41,7 +41,7 @@ As the image above illustrates the diverse scope of healthcare, highlighting the
 
 
 
-### Impact Domains
+### Impact of AI on the Different Healthcare Domains
 
 #### Diagnosis & Prognosis
 - **Medical Diagnosis:** The process by which healthcare professionals identify the nature of a patient's health condition or disease based on symptoms, medical history, physical examinations, and diagnostic tests or medical imaging.
